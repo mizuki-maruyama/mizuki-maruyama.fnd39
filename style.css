@@ -1,0 +1,261 @@
+#titleDisplay {
+  position: relative;
+}
+
+#title {
+  font-size: 100px;
+  color: white;
+  position: absolute;
+  top: 250px;
+  left: 480px;
+}
+
+#inputName {
+  position: absolute;
+  width: 500px;
+  height: 100px;
+  top: 700px;
+  left: 480px;
+  font-size: 30px;
+}
+
+#startButton {
+  position: absolute;
+  top: 700px;
+  left: 1200px;
+  width: 250px;
+}
+
+#startText {
+  position: absolute;
+  top: 685px;
+  left: 1245px;
+  font-size: 40px;
+  color: white;
+}
+
+#continueButton {
+  position: absolute;
+  top: 900px;
+  left: 900px;
+  width: 250px; 
+}
+
+#continueText {
+  position: absolute;
+  top: 885px;
+  left: 925px;
+  font-size: 40px;
+  color: white;
+}
+
+#loadSlots {
+  position: absolute;
+  background-color: rgba(255, 232, 232, 1);
+  width: 1920px;
+  height:1080px;
+  object-fit: contain;
+}
+
+.slots {
+  width: 500px;
+}
+
+#slot1Img {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+#slot2Img {
+  position: absolute;
+  top: 370px;
+  left: 50px;
+}
+
+#slot3Img {
+  position: absolute;
+  top: 700px;
+  left: 50px;
+}
+
+#slot4Img {
+  position: absolute;
+  top: 50px;
+  left: 1000px;
+}
+
+#slot5Img {
+  position: absolute;
+  top: 370px;
+  left: 1000px;
+}
+
+#slot6Img {
+  position: absolute;
+  top: 700px;
+  left: 1000px;
+}
+
+#slot1Text {
+  position: absolute;
+  top: 55px;
+  left: 115px;
+  font-size: 60px;
+  color: white;
+}
+
+#slot2Text {
+  position: absolute;
+  top: 375px;
+  left: 115px;
+  font-size: 60px;
+  color: white;
+}
+
+#slot3Text {
+  position: absolute;
+  top: 705px;
+  left: 115px;
+  font-size: 60px;
+  color: white;
+}
+
+#slot4Text {
+  position: absolute;
+  top: 55px;
+  left: 1065px;
+  font-size: 60px;
+  color: white;
+}
+
+#slot5Text {
+  position: absolute;
+  top: 375px;
+  left: 1065px;
+  font-size: 60px;
+  color: white;
+}
+
+#slot6Text {
+  position: absolute;
+  top: 705px;
+  left: 1065px;
+  font-size: 60px;
+  color: white;
+}
+
+#backButton {
+  width: 300px;
+  position: absolute;
+  top: 900px;
+  left: 1500px;
+}
+
+#backText {
+  position: absolute;
+  top: 895px;
+  left: 1590px;
+  font-size: 40px;
+  color: white;
+}
+
+#backGround {
+  position: relative;
+}
+
+#character {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+#messageWindow {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+}
+
+#saveButton {
+  position: absolute;
+  width: 250px;
+  left: 1500px;
+  top: 760px;
+}
+
+#backStartButton {
+  position: absolute;
+  width: 250px;
+  left: 1200px;
+  top: 760px;
+}
+
+#saveText {
+  position: absolute;
+  top: 745px;
+  left: 1560px;
+  font-size: 40px;
+  color: white;
+}
+
+#backStartText {
+  position: absolute;
+  top: 745px;
+  left: 1260px;
+  font-size: 40px;
+  color: white;
+}
+
+#text {
+  font-size: 40px;
+  color: white;
+}
+
+#message {
+  position: absolute;
+  top: 840px;
+  left: 300px;
+}
+
+#characterName {
+  position: absolute;
+  top: 770px;
+  left: 310px;
+}
+
+body {
+  width: 1920px;
+  height:1080px;
+  object-fit: contain;    
+}
+
+.choiceButtons {
+  position: absolute;
+  aspect-ratio: 4 / 1;
+  width: 700px;
+  top: 540px;
+}
+
+#choice1 {
+  left: 200px;
+}
+
+#choice2 {
+  left: 1050px;
+}
+
+#choice1Text {
+  position: absolute;
+  font-size: 40px;
+  color: white;
+  left: 350px;
+  top: 560px;
+}
+
+#choice2Text {
+  position: absolute;
+  font-size: 40px;
+  color: white;
+  left: 1200px;
+  top: 560px;
+}

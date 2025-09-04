@@ -49,6 +49,14 @@
   color: white;
 }
 
+#credit {
+  position: absolute;
+  font-size: 20px;
+  color: white;
+  top: 1000px;
+  left:1100px;
+}
+
 #loadSlots {
   position: absolute;
   background-color: rgba(255, 232, 232, 1);
